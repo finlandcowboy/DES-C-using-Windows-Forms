@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\user\source\repos\course\course\myform.h(155): warning C4102: pre: неиспользованная метка
+c:\users\user\source\repos\course\course\myform.h(172): warning C4102: pr: неиспользованная метка
+c:\users\user\source\repos\course\course\myform.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Course.vcxproj -> C:\Users\User\source\repos\Course\Debug\Course.exe
